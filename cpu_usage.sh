@@ -1,5 +1,4 @@
 #!/bin/sh
-# to run:  ./cpu_usage.sh &
+# to run:  ./cpu_usage.sh > cpu_usage.out 2>&1 &
 PROCESS="java"
-CPU=`top | grep $PROCESS`
-echo $CPU >> cpu_usage.out
+top | grep $PROCESS
