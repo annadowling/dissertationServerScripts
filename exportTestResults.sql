@@ -7,8 +7,4 @@ FROM
         LEFT JOIN
     consumer.message con
     ON con.correlation_id = pro.correlation_id
-INTO OUTFILE '/var/lib/mysql-files/data_profiling_test_results_2.csv'
-    FIELDS ENCLOSED BY '"'
-    TERMINATED BY ';'
-    ESCAPED BY '"'
-    LINES TERMINATED BY '\r\n';
+INTO OUTFILE '/var/lib/mysql-files/profiling_test_results.csv';

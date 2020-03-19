@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dca285d-c048-48a2-8faf-999a099ad228" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data_profiling_test_results.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_profiling_test_results.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/exportTestResults.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exportTestResults.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +27,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -46,11 +50,21 @@
       <workItem from="1583759651660" duration="2172000" />
       <workItem from="1584365483111" duration="560000" />
       <workItem from="1584531043252" duration="1108000" />
-      <workItem from="1584631382732" duration="1002000" />
+      <workItem from="1584631382732" duration="3149000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="646" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584634861495">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="646" y="321" key="#com.intellij.fileTypes.FileTypeChooser/-1680.23.1680.1027/0.23.1920.977@0.23.1920.977" timestamp="1584634861495" />
+    <state x="349" y="135" key="SettingsEditor" timestamp="1584635350403">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="349" y="135" key="SettingsEditor/0.23.1680.949@0.23.1680.949" timestamp="1584635350403" />
   </component>
 </project>
