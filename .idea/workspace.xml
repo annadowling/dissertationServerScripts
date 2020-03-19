@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dca285d-c048-48a2-8faf-999a099ad228" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data_profiling_test_results.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportTestResults.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exportTestResults.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +26,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,6 +46,7 @@
       <workItem from="1583759651660" duration="2172000" />
       <workItem from="1584365483111" duration="560000" />
       <workItem from="1584531043252" duration="1108000" />
+      <workItem from="1584631382732" duration="1002000" />
     </task>
     <servers />
   </component>
