@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dca285d-c048-48a2-8faf-999a099ad228" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/performanceDataAnalysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/performanceDataAnalysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/exportTestResultsJZMQ.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,8 @@
       <workItem from="1583759651660" duration="2172000" />
       <workItem from="1584365483111" duration="560000" />
       <workItem from="1584531043252" duration="1108000" />
-      <workItem from="1584631382732" duration="3422000" />
+      <workItem from="1584631382732" duration="3557000" />
+      <workItem from="1584700943034" duration="218000" />
     </task>
     <servers />
   </component>
